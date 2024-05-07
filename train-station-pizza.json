@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "145",
+      "short_name": "145",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Main Street",
+      "short_name": "Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Seymour",
+      "short_name": "Seymour",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New Haven County",
+      "short_name": "New Haven County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Connecticut",
+      "short_name": "CT",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "06483",
+      "short_name": "06483",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3137",
+      "short_name": "3137",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">145 Main St</span>, <span class=\"locality\">Seymour</span>, <span class=\"region\">CT</span> <span class=\"postal-code\">06483-3137</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2024-05-12",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2024-05-12",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-06",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2024-05-06",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-07",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2024-05-07",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-08",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2024-05-08",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-09",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2024-05-09",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-10",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2024-05-10",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2024-05-11",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2024-05-11",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "145 Main St, Seymour, CT 06483, USA",
+  "formatted_phone_number": "(203) 828-1008",
+  "geometry": {
+    "location": {
+      "lat": 41.3956812,
+      "lng": -73.07276279999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 41.3969967802915,
+        "lng": -73.0713029697085
+      },
+      "southwest": {
+        "lat": 41.3942988197085,
+        "lng": -73.0740009302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 203-828-1008",
+  "name": "Seymour Train Station Pizza",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00 AM – 9:00 PM",
+      "Tuesday: 11:00 AM – 9:00 PM",
+      "Wednesday: 11:00 AM – 9:00 PM",
+      "Thursday: 11:00 AM – 9:00 PM",
+      "Friday: 11:00 AM – 10:00 PM",
+      "Saturday: 11:00 AM – 10:00 PM",
+      "Sunday: 12:00 – 9:00 PM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105001155562419140739\">Scott V</a>"
+      ],
+      "photo_reference": "AUGGfZlY_vbWGMAvJmB1yjU6aEffdGOan_YPqsB6PcxX5VfjZ2_x_lO9GoNzt25MidUkbFcVmVbih5uB8ftz6knXObSSLfv4CmMmo7Z4qcrmdNO8V7QKPWTXuVy8-KIoDQ0-zaZJywR2GjbsBtCeMCo9fkyYY2O_Xr4fEX-tVp9RuI3dioem",
+      "width": 4000
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114669090859727827193\">Dave Dave</a>"
+      ],
+      "photo_reference": "AUGGfZl-kRjXZhlDm8Idps4rKfE4dl8nrIfGAlT8vGUw2fAbtluF87RQHibDBBzz1aqv3-ZUexLFtT3hL-cagys6gKoyT4S4GDAya88ADeQMqsLtclZ_CEVqDAs_kv6wKJ-kGpxC3uOwN0JM-_sqYOr8mBSeWWeqNzV2WGW4ZdOGxL338lx8",
+      "width": 2992
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103380783704235737414\">Deisy Delia</a>"
+      ],
+      "photo_reference": "AUGGfZn62_Hd2N_KqQQfERISDE9Np78FOyqI67Xrta1Pl3w-Zz35aa9rA9x27ILHB4uBBHCaSHi-yaO4i2KCZk89MTUmz8dujQdqPnkfAoPr0pB3zFYRPVUphzdACxnfO1FgUvDApq32p7ktj8VClNa5jJkqU27CX55zCDcuNnF-u5UegVmM",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103380783704235737414\">Deisy Delia</a>"
+      ],
+      "photo_reference": "AUGGfZmJ7ye3JoXTbi7AWufJ3i7WJ5J--9nbcOQtfOd4sGutbLidKqFXWrw2XGPJ3cJ0JhRkSBZCjaYwVTqTmoTsm6H-F906NH_H_yMzkbyawlikAVgJKsqq4yGaIKCb6ck-aHe5wuOdpKFZdBO9_5Des4VHxyNX2DLxgek7kJfrnzHfQmyE",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103524414012828740266\">Gloptic Man</a>"
+      ],
+      "photo_reference": "AUGGfZnfAIUDJZy3htv_xgd2KjiJDOs2-_IX7MGfgPp2OpK8_UUCDJp7e5labTQSX2ml7YCTbbxli0DkaJAik8eMBYJydclywaOF7wEsP4kJz_4QlvdDEB71MiwNSL6C0jAIkwMPj08BIt5e1ZJ9_BvfuCkSVlkqMqxf-1wGKqXPSk-nTCze",
+      "width": 3024
+    },
+    {
+      "height": 3788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+      ],
+      "photo_reference": "AUGGfZncuh1MkE9uqkluWUW4KxqlR1DTUs1F-ueg6QhozgYQbR-oho9a0_WQpUBexxY69G3GyO3G5gZ1LHaaqECV59ROXP-OZtT4rpbwBLStwvnkBT0XZsyMy4wPJylucg0Hm5iD2Ngny7YDJqReF3uuNzZ5QdRApDFsSKnklhGI6lRqN5BB",
+      "width": 1868
+    },
+    {
+      "height": 3788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+      ],
+      "photo_reference": "AUGGfZlCmS1IPIUmL6fGUdnr1Q-16gxS0-93RTxhVHtC5QKekWkXKTOeG743XteVdsecmN76IJnSLmvtcoz4VxSnwnL9zzUTz7KQH_0PrdLKu9oPrh6oeocdSrSqvGz_mpIWDOl1Wp7I1Nzs5G_QJ6sw3k_4owbJT7JjnUak-BQnhrFC0I-h",
+      "width": 1868
+    },
+    {
+      "height": 3788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+      ],
+      "photo_reference": "AUGGfZlQG_f557NRJqe70LxWLdePHYYLAOwYIyohGqq5wGRRV6L4f0gprLcyXFwvAzFRE7ZwhWvEXHVAEnhwxSwhUDfQjJGxAzmDff45C21uc7Cyo8E-s10RYcT_27fr8WlVVfQl51lX_0vjVnX3PRVE_bs652Q4ULHrzlE1PK8etNYtj84I",
+      "width": 1868
+    },
+    {
+      "height": 3788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+      ],
+      "photo_reference": "AUGGfZnfWxER1BthRYqLWvIar2tnkq0ph6O4uT8xYKhslIXtcnQ4vCbnLKcGogIWtuZNkKXIwpVkFdcpYP3rigitVGx-MrqsAeqvtTo_q7QahJz7APCIkzUKk6fJ4G0oYg8U1JH-kXxtxBd-Xfx3JTshQb7ukH7fQQBI61aqhuDQm1Jy0GMt",
+      "width": 1868
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102949905516612861441\">Jake Labate</a>"
+      ],
+      "photo_reference": "AUGGfZlJUOK8R8UEVFywRHsNQMy9f6Dtx4q6kO--fNpnn3vwF0GrFLgYV0CRawhJSXsSYpO8Modm3gK0Y_isk8d2pNLXFR1E11WVmAoQBDWbiI5cQB97_3HHFtESCxyJHJkReKoqox_WAaTRW2naXOEsKkVzE-bOVmy3UGYBKxf4gKyrTuW8",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ1ZfTGUzd54kRhBQweep420k",
+  "plus_code": {
+    "compound_code": "9WWG+7V Seymour, CT, USA",
+    "global_code": "87H89WWG+7V"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJ1ZfTGUzd54kRhBQweep420k",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Enrique Vargas",
+      "author_url": "https://www.google.com/maps/contrib/116231682679608365724/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDJr6UBAMbnVf-OrBg4sDFBYVzueuBQpx_DEGkExz2GZPYmz75Hg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This was a great experience, such an amazing atmosphere. Greeted with smiles all around, the waitress was great, the owner stopped by and told me the special, but I was only in the mood for salad and pizza. This pizza was great, crispy, the right amount of sauce and cheese. I am looking forward to coming back and trying other dishes that they have, I will also try a drink next time. They truly go out of their way to make you feel like family. Such a great place!",
+      "time": 1710719517,
+      "translated": false
+    },
+    {
+      "author_name": "Jenna Wills",
+      "author_url": "https://www.google.com/maps/contrib/100249755028816521175/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLSPzQWng2gW1RTD6MBSfGXksNB_c_c1a9CMrWhKWLLLksl1FL=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "First time there tonight and will definitely be back! The pizza was great- think crust and fresh. Customer service was pleasant and warm- the owner and staff made it a point to check in frequently. My daughter keeps asking when we could go back because the staff gave her an opportunity to help out and observe what the waitress does! She felt included and of course, thrived on the attention. Love the touch of the garage door that opens to let fresh air in!",
+      "time": 1710639306,
+      "translated": false
+    },
+    {
+      "author_name": "Frances Voorhees",
+      "author_url": "https://www.google.com/maps/contrib/117433287466265439446/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLsrw1Ld1DvMHm0lr_KVmrTPj0RuAIg22bSZ368i3ayBU4a4A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The pizza was delicious!!   Thin crust with just the right amount of sauce and cheese.   We were in such a rush so we couldn’t enjoy any other dish but\nthe owner was so accommodating and delightful as were the other employees.  It was a great stop on the way to the ferry!   We will absolutely visit it again!  Thank you again.",
+      "time": 1708734816,
+      "translated": false
+    },
+    {
+      "author_name": "Pedro Pierre",
+      "author_url": "https://www.google.com/maps/contrib/103705689582561752627/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdjJAYLZILyrQ75TUXxW3AjthAqbiGNMRkZyAwOeYAZ5mtig=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "Delivery driver couldn't even find my house on her gps . The fries were cold and soft when i asked on the app to be extra crispy and last the pizza was super salty for some reason.  I wont be ordering pizza from here ever again",
+      "time": 1713826882,
+      "translated": false
+    },
+    {
+      "author_name": "Tiffany Torok",
+      "author_url": "https://www.google.com/maps/contrib/110615762823839424105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsLxcG_9KO7TO0eMAXwequBRKnSTfUnwlt7sKdW77ZktVk7gkXEA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "We stopped in here for lunch today and we enjoyed every second of it. Great food, friendly staff, beautiful atmosphere. We will definitely be returning when we are in the area.",
+      "time": 1714343487,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "meal_takeaway",
+    "meal_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5321980333119247492",
+  "user_ratings_total": 110,
+  "utc_offset": -240,
+  "vicinity": "145 Main Street, Seymour",
+  "website": "https://www.ordertrainstationpizza.com/"
+}
