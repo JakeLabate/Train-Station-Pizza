@@ -1,0 +1,965 @@
+[
+                    {
+                        "type": "google_places",
+                        "data": {
+                            "html_attributions": {
+                                "description": "HTML Attributions",
+                                "value": []
+                            },
+                            "name": {
+                                "name": "Name",
+                                "description": "The name of the business.",
+                                "value": "Seymour Train Station Pizza"
+                            },
+                            "website": {
+                                "name": "Website",
+                                "description": "The website of the business.",
+                                "value": "https://www.ordertrainstationpizza.com/"
+                            },
+                            "business_status": {
+                                "name": "Business Status",
+                                "description": "The operational status of the business.",
+                                "value": "OPERATIONAL"
+                            },
+                            "phone_number": {
+                                "name": "Phone Number",
+                                "description": "The phone number of the business.",
+                                "value": "(203) 828-1008"
+                            },
+                            "international_phone_number": {
+                                "name": "International Phone Number",
+                                "description": "The international phone number of the business.",
+                                "value": "+1 203-828-1008"
+                            },
+                            "google_maps_url": {
+                                "name": "Google Maps URL",
+                                "description": "The URL to the business on Google Maps. This is a link to the actual Google Maps page.",
+                                "value": "https://maps.google.com/?cid=5321980333119247492"
+                            },
+                            "google_review_count": {
+                                "name": "Google Review Count",
+                                "description": "The total number of Google reviews the business has received.",
+                                "value": 111
+                            },
+                            "google_review_rating": {
+                                "name": "Google Review Rating",
+                                "description": "The rating of the business on Google Reviews. For example, 4.5. This is always a number between 1 and 5.",
+                                "value": 4.5
+                            },
+                            "google_reviews": {
+                                "description": "Google Reviews",
+                                "value": [
+                                    {
+                                        "author_name": {
+                                            "name": "Author Name",
+                                            "description": "The name of the reviewer who left the Google review.",
+                                            "value": "Enrique Vargas"
+                                        },
+                                        "author_url": {
+                                            "name": "Author URL",
+                                            "description": "The URL to the reviewer's Google Maps profile. This is a link to the actual profile page.",
+                                            "value": "https://www.google.com/maps/contrib/116231682679608365724/reviews"
+                                        },
+                                        "language": {
+                                            "name": "Language",
+                                            "description": "The language the review was written in. For example, \"en\" for English.",
+                                            "value": "en"
+                                        },
+                                        "original_language": {
+                                            "name": "Original Language",
+                                            "description": "",
+                                            "value": "en"
+                                        },
+                                        "profile_photo_url": {
+                                            "name": "Profile Photo URL",
+                                            "description": "The URL of the reviewer's profile photo. This is a link to the actual image file.",
+                                            "value": "https://lh3.googleusercontent.com/a-/ALV-UjXDJr6UBAMbnVf-OrBg4sDFBYVzueuBQpx_DEGkExz2GZPYmz75Hg=s128-c0x00000000-cc-rp-mo-ba5"
+                                        },
+                                        "rating": {
+                                            "name": "Rating",
+                                            "description": "The rating the reviewer gave the business. For example, 4.5. This is always a number between 1 and 5.",
+                                            "value": 5
+                                        },
+                                        "relative_time_description": {
+                                            "name": "Relative Time Description",
+                                            "description": "This is approximately how long ago the review was written. For example, \"2 months ago\" or \"a month ago\".",
+                                            "value": "a month ago"
+                                        },
+                                        "text": {
+                                            "name": "Text",
+                                            "description": "The textual content (the review) written by the reviewer about the business.",
+                                            "value": "This was a great experience, such an amazing atmosphere. Greeted with smiles all around, the waitress was great, the owner stopped by and told me the special, but I was only in the mood for salad and pizza. This pizza was great, crispy, the right amount of sauce and cheese. I am looking forward to coming back and trying other dishes that they have, I will also try a drink next time. They truly go out of their way to make you feel like family. Such a great place!"
+                                        },
+                                        "time": {
+                                            "name": "Time",
+                                            "description": "The time the review was written. This is a Unix timestamp in seconds.",
+                                            "value": 1710719517
+                                        }
+                                    },
+                                    {
+                                        "author_name": {
+                                            "name": "Author Name",
+                                            "description": "The name of the reviewer who left the Google review.",
+                                            "value": "Jenna Wills"
+                                        },
+                                        "author_url": {
+                                            "name": "Author URL",
+                                            "description": "The URL to the reviewer's Google Maps profile. This is a link to the actual profile page.",
+                                            "value": "https://www.google.com/maps/contrib/100249755028816521175/reviews"
+                                        },
+                                        "language": {
+                                            "name": "Language",
+                                            "description": "The language the review was written in. For example, \"en\" for English.",
+                                            "value": "en"
+                                        },
+                                        "original_language": {
+                                            "name": "Original Language",
+                                            "description": "",
+                                            "value": "en"
+                                        },
+                                        "profile_photo_url": {
+                                            "name": "Profile Photo URL",
+                                            "description": "The URL of the reviewer's profile photo. This is a link to the actual image file.",
+                                            "value": "https://lh3.googleusercontent.com/a-/ALV-UjXLSPzQWng2gW1RTD6MBSfGXksNB_c_c1a9CMrWhKWLLLksl1FL=s128-c0x00000000-cc-rp-mo"
+                                        },
+                                        "rating": {
+                                            "name": "Rating",
+                                            "description": "The rating the reviewer gave the business. For example, 4.5. This is always a number between 1 and 5.",
+                                            "value": 5
+                                        },
+                                        "relative_time_description": {
+                                            "name": "Relative Time Description",
+                                            "description": "This is approximately how long ago the review was written. For example, \"2 months ago\" or \"a month ago\".",
+                                            "value": "a month ago"
+                                        },
+                                        "text": {
+                                            "name": "Text",
+                                            "description": "The textual content (the review) written by the reviewer about the business.",
+                                            "value": "First time there tonight and will definitely be back! The pizza was great- think crust and fresh. Customer service was pleasant and warm- the owner and staff made it a point to check in frequently. My daughter keeps asking when we could go back because the staff gave her an opportunity to help out and observe what the waitress does! She felt included and of course, thrived on the attention. Love the touch of the garage door that opens to let fresh air in!"
+                                        },
+                                        "time": {
+                                            "name": "Time",
+                                            "description": "The time the review was written. This is a Unix timestamp in seconds.",
+                                            "value": 1710639306
+                                        }
+                                    },
+                                    {
+                                        "author_name": {
+                                            "name": "Author Name",
+                                            "description": "The name of the reviewer who left the Google review.",
+                                            "value": "Frances Voorhees"
+                                        },
+                                        "author_url": {
+                                            "name": "Author URL",
+                                            "description": "The URL to the reviewer's Google Maps profile. This is a link to the actual profile page.",
+                                            "value": "https://www.google.com/maps/contrib/117433287466265439446/reviews"
+                                        },
+                                        "language": {
+                                            "name": "Language",
+                                            "description": "The language the review was written in. For example, \"en\" for English.",
+                                            "value": "en"
+                                        },
+                                        "original_language": {
+                                            "name": "Original Language",
+                                            "description": "",
+                                            "value": "en"
+                                        },
+                                        "profile_photo_url": {
+                                            "name": "Profile Photo URL",
+                                            "description": "The URL of the reviewer's profile photo. This is a link to the actual image file.",
+                                            "value": "https://lh3.googleusercontent.com/a/ACg8ocLsrw1Ld1DvMHm0lr_KVmrTPj0RuAIg22bSZ368i3ayBU4a4A=s128-c0x00000000-cc-rp-mo"
+                                        },
+                                        "rating": {
+                                            "name": "Rating",
+                                            "description": "The rating the reviewer gave the business. For example, 4.5. This is always a number between 1 and 5.",
+                                            "value": 5
+                                        },
+                                        "relative_time_description": {
+                                            "name": "Relative Time Description",
+                                            "description": "This is approximately how long ago the review was written. For example, \"2 months ago\" or \"a month ago\".",
+                                            "value": "2 months ago"
+                                        },
+                                        "text": {
+                                            "name": "Text",
+                                            "description": "The textual content (the review) written by the reviewer about the business.",
+                                            "value": "The pizza was delicious!!   Thin crust with just the right amount of sauce and cheese.   We were in such a rush so we couldn’t enjoy any other dish but\nthe owner was so accommodating and delightful as were the other employees.  It was a great stop on the way to the ferry!   We will absolutely visit it again!  Thank you again."
+                                        },
+                                        "time": {
+                                            "name": "Time",
+                                            "description": "The time the review was written. This is a Unix timestamp in seconds.",
+                                            "value": 1708734816
+                                        }
+                                    },
+                                    {
+                                        "author_name": {
+                                            "name": "Author Name",
+                                            "description": "The name of the reviewer who left the Google review.",
+                                            "value": "Tiffany Torok"
+                                        },
+                                        "author_url": {
+                                            "name": "Author URL",
+                                            "description": "The URL to the reviewer's Google Maps profile. This is a link to the actual profile page.",
+                                            "value": "https://www.google.com/maps/contrib/110615762823839424105/reviews"
+                                        },
+                                        "language": {
+                                            "name": "Language",
+                                            "description": "The language the review was written in. For example, \"en\" for English.",
+                                            "value": "en"
+                                        },
+                                        "original_language": {
+                                            "name": "Original Language",
+                                            "description": "",
+                                            "value": "en"
+                                        },
+                                        "profile_photo_url": {
+                                            "name": "Profile Photo URL",
+                                            "description": "The URL of the reviewer's profile photo. This is a link to the actual image file.",
+                                            "value": "https://lh3.googleusercontent.com/a-/ALV-UjWsLxcG_9KO7TO0eMAXwequBRKnSTfUnwlt7sKdW77ZktVk7gkXEA=s128-c0x00000000-cc-rp-mo"
+                                        },
+                                        "rating": {
+                                            "name": "Rating",
+                                            "description": "The rating the reviewer gave the business. For example, 4.5. This is always a number between 1 and 5.",
+                                            "value": 5
+                                        },
+                                        "relative_time_description": {
+                                            "name": "Relative Time Description",
+                                            "description": "This is approximately how long ago the review was written. For example, \"2 months ago\" or \"a month ago\".",
+                                            "value": "2 weeks ago"
+                                        },
+                                        "text": {
+                                            "name": "Text",
+                                            "description": "The textual content (the review) written by the reviewer about the business.",
+                                            "value": "We stopped in here for lunch today and we enjoyed every second of it. Great food, friendly staff, beautiful atmosphere. We will definitely be returning when we are in the area."
+                                        },
+                                        "time": {
+                                            "name": "Time",
+                                            "description": "The time the review was written. This is a Unix timestamp in seconds.",
+                                            "value": 1714343487
+                                        }
+                                    },
+                                    {
+                                        "author_name": {
+                                            "name": "Author Name",
+                                            "description": "The name of the reviewer who left the Google review.",
+                                            "value": "Pedro Pierre"
+                                        },
+                                        "author_url": {
+                                            "name": "Author URL",
+                                            "description": "The URL to the reviewer's Google Maps profile. This is a link to the actual profile page.",
+                                            "value": "https://www.google.com/maps/contrib/103705689582561752627/reviews"
+                                        },
+                                        "language": {
+                                            "name": "Language",
+                                            "description": "The language the review was written in. For example, \"en\" for English.",
+                                            "value": "en"
+                                        },
+                                        "original_language": {
+                                            "name": "Original Language",
+                                            "description": "",
+                                            "value": "en"
+                                        },
+                                        "profile_photo_url": {
+                                            "name": "Profile Photo URL",
+                                            "description": "The URL of the reviewer's profile photo. This is a link to the actual image file.",
+                                            "value": "https://lh3.googleusercontent.com/a/ACg8ocKdjJAYLZILyrQ75TUXxW3AjthAqbiGNMRkZyAwOeYAZ5mtig=s128-c0x00000000-cc-rp-mo-ba3"
+                                        },
+                                        "rating": {
+                                            "name": "Rating",
+                                            "description": "The rating the reviewer gave the business. For example, 4.5. This is always a number between 1 and 5.",
+                                            "value": 1
+                                        },
+                                        "relative_time_description": {
+                                            "name": "Relative Time Description",
+                                            "description": "This is approximately how long ago the review was written. For example, \"2 months ago\" or \"a month ago\".",
+                                            "value": "2 weeks ago"
+                                        },
+                                        "text": {
+                                            "name": "Text",
+                                            "description": "The textual content (the review) written by the reviewer about the business.",
+                                            "value": "Delivery driver couldn't even find my house on her gps . The fries were cold and soft when i asked on the app to be extra crispy and last the pizza was super salty for some reason.  I wont be ordering pizza from here ever again"
+                                        },
+                                        "time": {
+                                            "name": "Time",
+                                            "description": "The time the review was written. This is a Unix timestamp in seconds.",
+                                            "value": 1713826882
+                                        }
+                                    }
+                                ]
+                            },
+                            "geometry": {
+                                "name": "Location Geometry",
+                                "description": "The geographic location of the business.",
+                                "value": {
+                                    "location": {
+                                        "lat": 41.3956812,
+                                        "lng": -73.07276279999999
+                                    },
+                                    "viewport": {
+                                        "northeast": {
+                                            "lat": 41.3969967802915,
+                                            "lng": -73.0713029697085
+                                        },
+                                        "southwest": {
+                                            "lat": 41.3942988197085,
+                                            "lng": -73.0740009302915
+                                        }
+                                    }
+                                }
+                            },
+                            "wheelchair_accessible_entrance": {
+                                "name": "Wheelchair Accessible Entrance",
+                                "description": "Whether or not the business has a wheelchair accessible entrance."
+                            },
+                            "address_components": {
+                                "name": "Address Components",
+                                "value": [
+                                    {
+                                        "long_name": "145",
+                                        "short_name": "145",
+                                        "types": [
+                                            "street_number"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "Main Street",
+                                        "short_name": "Main St",
+                                        "types": [
+                                            "route"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "Seymour",
+                                        "short_name": "Seymour",
+                                        "types": [
+                                            "locality",
+                                            "political"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "New Haven County",
+                                        "short_name": "New Haven County",
+                                        "types": [
+                                            "administrative_area_level_2",
+                                            "political"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "Connecticut",
+                                        "short_name": "CT",
+                                        "types": [
+                                            "administrative_area_level_1",
+                                            "political"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "United States",
+                                        "short_name": "US",
+                                        "types": [
+                                            "country",
+                                            "political"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "06483",
+                                        "short_name": "06483",
+                                        "types": [
+                                            "postal_code"
+                                        ]
+                                    },
+                                    {
+                                        "long_name": "3137",
+                                        "short_name": "3137",
+                                        "types": [
+                                            "postal_code_suffix"
+                                        ]
+                                    }
+                                ]
+                            },
+                            "adr_address": {
+                                "name": "ADR Address",
+                                "value": "<span class=\"street-address\">145 Main St</span>, <span class=\"locality\">Seymour</span>, <span class=\"region\">CT</span> <span class=\"postal-code\">06483-3137</span>, <span class=\"country-name\">USA</span>"
+                            },
+                            "current_opening_hours": {
+                                "name": "Current Opening Hours",
+                                "description": "The current opening hours of the business.",
+                                "value": {
+                                    "open_now": true,
+                                    "periods": [
+                                        {
+                                            "close": {
+                                                "day": 0,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 0,
+                                                "time": "1200"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 1,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 1,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 2,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 2,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 3,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 3,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 4,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 4,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 5,
+                                                "time": "2200"
+                                            },
+                                            "open": {
+                                                "day": 5,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 6,
+                                                "time": "2200"
+                                            },
+                                            "open": {
+                                                "day": 6,
+                                                "time": "1100"
+                                            }
+                                        }
+                                    ],
+                                    "weekday_text": [
+                                        "Monday: 11:00 AM – 9:00 PM",
+                                        "Tuesday: 11:00 AM – 9:00 PM",
+                                        "Wednesday: 11:00 AM – 9:00 PM",
+                                        "Thursday: 11:00 AM – 9:00 PM",
+                                        "Friday: 11:00 AM – 10:00 PM",
+                                        "Saturday: 11:00 AM – 10:00 PM",
+                                        "Sunday: 12:00 – 9:00 PM"
+                                    ]
+                                }
+                            },
+                            "formatted_address": {
+                                "name": "Formatted Address",
+                                "value": "145 Main St, Seymour, CT 06483, USA"
+                            },
+                            "vicinity": {
+                                "name": "Vicinity",
+                                "description": "The vicinity of the business.",
+                                "value": "145 Main Street, Seymour"
+                            },
+                            "utc_offset": {
+                                "name": "UTC Offset",
+                                "description": "The UTC offset of the business.",
+                                "value": -240
+                            },
+                            "types": {
+                                "name": "Types",
+                                "description": "The types of the business. For example, \"restaurant\" or \"cafe\".",
+                                "value": [
+                                    "meal_takeaway",
+                                    "meal_delivery",
+                                    "restaurant",
+                                    "food",
+                                    "point_of_interest",
+                                    "establishment"
+                                ]
+                            },
+                            "place_id": {
+                                "name": "Place ID",
+                                "description": "The Google Maps Place ID of the business.",
+                                "value": "ChIJ1ZfTGUzd54kRhBQweep420k"
+                            },
+                            "plus_code": {
+                                "name": "Plus Code",
+                                "description": "",
+                                "value": {
+                                    "compound_code": "9WWG+7V Seymour, CT, USA",
+                                    "global_code": "87H89WWG+7V"
+                                }
+                            },
+                            "photos": {
+                                "name": "Photos",
+                                "description": "Photos of the business.",
+                                "value": [
+                                    {
+                                        "height": 3000,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/105001155562419140739\">Scott V</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZlYroWNkUSNLeRhWJnP6PxRfg-U41OjIt_Cc3Xo6Mw2lcssEFA5WePQb-bMpNYrRb78s2iHbMQrVV9DeK3M-eA3zcLSRJcd7YC25DQSqC_gaKz2uNZojXnaqCWIIHfvVwy0kilIb1VMNZeeOxCAVkyXba-TXO8z4Jg-KzLtLXu1FDxF",
+                                        "width": 4000
+                                    },
+                                    {
+                                        "height": 2992,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/114669090859727827193\">Dave Dave</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZlS6XgbBxCpVI3u13Zf4Ypalv_iRU0vtEoWlWDZFOBHxiME1kj-Uczb7t3dAaYvx3Iv0gPUzfpiCyaxbEkVu_12B9n0BI2a2TwHsEQ6a6ChS9qEMaqin5Z1w35eLIliJaRoFDDlvmexqyeO7VoL0vGM6J9IIML-Tlq4BzmC68Q7lCqE",
+                                        "width": 2992
+                                    },
+                                    {
+                                        "height": 4032,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/103380783704235737414\">Deisy Delia</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZmhio_S7vmMSqmzvDCx_Ug06IHzHNhzyvu4dFzKA_3uCVgEBsTC_v4VthEYEsdNhQZkgPi95prDC3Xs8zS9-Gv5Y_ikkupK5y4-tz4ZrEtsETLyGOm-09l8X3fSKjtXhN_siv-D7n7c0Lu_L6djOI1uw2X85HRKy__tHuL-BPzvryT_",
+                                        "width": 3024
+                                    },
+                                    {
+                                        "height": 4032,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/103380783704235737414\">Deisy Delia</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZmrhbGu7yjOUHselzhz6TYTtKTYQDSVRBdBOLMuk22mapodhBJHg-0c-z_VA7RiXfbTCOfqTpdmgmjJgUZd82LscCmx_rfKo01FgptCxRPT0k3lsr8BP-JCa0yeu2L-ZavlZOQCh7Nafc0604qmA8AVfCExZz7PRGN2zs_Nmm1uTE51",
+                                        "width": 3024
+                                    },
+                                    {
+                                        "height": 4032,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/103524414012828740266\">Gloptic Man</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZmXOmztSQrXwjOq7rJDZcoZF4i2VKM3i7mXOHLK_Y_1LdRXODMOVJr9pNccBKT8ln5jE9xeSaoHwMYrE6wQkCcOGl4OuD6d_BWNCTFLhJJ84Q77KmySAunQBeQSmFKRxD7ldpWWDw0w0jNELsXJ2lwCl-zhgg_YKfgSq7E-T3mCU5sz",
+                                        "width": 3024
+                                    },
+                                    {
+                                        "height": 3788,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZlReCDW2mcU9IK-ZJvzDUPHPBzqK8aW35YTHrl99Yz0XXvi4jaQDoWm2QDMVXM7i6BgZAv_5_dOP9hhAonbhR6QvZazUrgkmmkYAoGDptUAJJuoxPvUDHZ8ajr01UcltNuFtndmuekruFQnTMD3RATUM3sou4ndQwAVi3x4gm2RXmwh",
+                                        "width": 1868
+                                    },
+                                    {
+                                        "height": 3788,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZmd092T_EVQ9gozkyym9-50LKJN0CN5grePJpGvbVba-mPuHLS_HM_LuaaogTQsVVPfySKGZsN7ltwWKL7rBzRvvie7Lkae1zZMZ1BGluadlW9zR39kFQS3kbwWuG7Y_7CL2ANw6EwVs2f54NxqFBU56fvpcXXTNJGxNfDwtZ_rOdPq",
+                                        "width": 1868
+                                    },
+                                    {
+                                        "height": 3788,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZmutvbPSuah0XM5GneV3U5Ljf81GpCgzobqrjWDgXyeKPQjNDhzU8cMeWoMn_QAkU9hSSrbB9dowuzc8dsY5LZ8--qckoMqtmZh_HTwJJyhXvHdnVVqYqZg_md4Q6VteJg7FoRtC5kH2x4G9-JcxO6fWwV0mfK90nbBpoYcbpnRAZai",
+                                        "width": 1868
+                                    },
+                                    {
+                                        "height": 3788,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/116271576896699704806\">Vincent Lee</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZkj7MRx-YPHKO-Coc9XnI0uwxxDSLFfn_SN9A3HTwgwS3mfT5LssTQPxQuqil83k4Ux3zBxZ7L37iv7hg1bv6IvN9831LDYpJ4sp83ygmRLjHouEa9bBnD0owO-xUPY8wlsBmpaaDQ-pw2qnvC7Ljsl3LLHNvbxdyDxXaiTKTTFDonP",
+                                        "width": 1868
+                                    },
+                                    {
+                                        "height": 4032,
+                                        "html_attributions": [
+                                            "<a href=\"https://maps.google.com/maps/contrib/102949905516612861441\">Jake Labate</a>"
+                                        ],
+                                        "photo_reference": "AUGGfZkkeSGvnbzVRwxiKp0BQGcMNF0wHIO3zggHr1ER7-YFsvNNIcQNZOqUxVYMOIBHZlNGK5cI1-eLuNKVpmY-1xVTy5ekK-n_7gunT6qRi_rIhSO-MMbVusnxU8CZT6tujSQzChU-Pohzi-uSxFMb2AgjnQVYHlYREk2tRzbxMeEMvljy",
+                                        "width": 3024
+                                    }
+                                ]
+                            },
+                            "opening_hours": {
+                                "name": "Opening Hours",
+                                "description": "The opening hours of the business.",
+                                "value": {
+                                    "open_now": true,
+                                    "periods": [
+                                        {
+                                            "close": {
+                                                "day": 0,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 0,
+                                                "time": "1200"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 1,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 1,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 2,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 2,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 3,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 3,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 4,
+                                                "time": "2100"
+                                            },
+                                            "open": {
+                                                "day": 4,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 5,
+                                                "time": "2200"
+                                            },
+                                            "open": {
+                                                "day": 5,
+                                                "time": "1100"
+                                            }
+                                        },
+                                        {
+                                            "close": {
+                                                "day": 6,
+                                                "time": "2200"
+                                            },
+                                            "open": {
+                                                "day": 6,
+                                                "time": "1100"
+                                            }
+                                        }
+                                    ],
+                                    "weekday_text": [
+                                        "Monday: 11:00 AM – 9:00 PM",
+                                        "Tuesday: 11:00 AM – 9:00 PM",
+                                        "Wednesday: 11:00 AM – 9:00 PM",
+                                        "Thursday: 11:00 AM – 9:00 PM",
+                                        "Friday: 11:00 AM – 10:00 PM",
+                                        "Saturday: 11:00 AM – 10:00 PM",
+                                        "Sunday: 12:00 – 9:00 PM"
+                                    ]
+                                }
+                            },
+                            "icon_mask_base_uri": {
+                                "name": "Icon Mask Base URI",
+                                "description": "The base URI for the icon mask of the business.",
+                                "value": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet"
+                            },
+                            "icon_background_color": {
+                                "name": "Icon Background Color",
+                                "description": "The background color of the icon of the business.",
+                                "value": "#FF9E67"
+                            },
+                            "icon": {
+                                "name": "Icon",
+                                "description": "The icon of the business.",
+                                "value": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png"
+                            }
+                        }
+                    },
+                    {
+                        "type": "instagram",
+                        "data": {
+                            "about": {
+                                "name": "About",
+                                "description": "",
+                                "value": null
+                            },
+                            "account_badges": {
+                                "name": "Account Badges",
+                                "description": "",
+                                "value": []
+                            },
+                            "active_standalone_fundraisers": {
+                                "name": "Active Standalone Fundraisers",
+                                "description": "",
+                                "value": {
+                                    "fundraisers": [],
+                                    "total_count": 0
+                                }
+                            },
+                            "bio_links": {
+                                "name": "Bio Links",
+                                "description": "Links in the bio of the Instagram account.",
+                                "value": [
+                                    {
+                                        "image_url": {
+                                            "name": "Image URL",
+                                            "description": "",
+                                            "value": ""
+                                        },
+                                        "is_pinned": {
+                                            "name": "Is Pinned",
+                                            "description": "",
+                                            "value": false
+                                        },
+                                        "is_verified": {
+                                            "name": "Is Verified",
+                                            "description": "",
+                                            "value": false
+                                        },
+                                        "link_id": {
+                                            "name": "Link ID",
+                                            "description": "",
+                                            "value": 18094938355327420
+                                        },
+                                        "link_type": {
+                                            "name": "Link Type",
+                                            "description": "",
+                                            "value": "external"
+                                        },
+                                        "lynx_url": {
+                                            "name": "Lynx URL",
+                                            "description": "",
+                                            "value": "https://l.instagram.com/?u=https%3A%2F%2Fslicelife.com%2Frestaurants%2Fct%2Fseymour%2F06483%2Ftrain-station-pizza-seymour%2Fmenu%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaY7w7L-7_1lMNpkNFUPHiAehyjm-lRXLdnksUDJoKZD5PXH5JG_n4ldS4k_aem_AV9CvvjhLiQ-UfqAM_pDLR85bw84a55b6wgkQsPd0xmaF8Pq_Q11eu3VOcTUbtLO6B39Cl_XJRZ6ESwzvnPQatdS&e=AT1Lbpn5zUd0IKqCvRqJNgHgk7FEYi-9z0p4zEG1vjvmlCDU7vQYR-QockoBKL3qHAWSfHaqCPwMUN0TuCxV54wgEBhXwmtZBwc8Fn8"
+                                        },
+                                        "open_external_url_with_in_app_browser": {
+                                            "name": "Open External URL with In-App Browser",
+                                            "description": "",
+                                            "value": true
+                                        },
+                                        "title": {
+                                            "name": "Title",
+                                            "description": "",
+                                            "value": "Slice (Pick up/ Delivery)"
+                                        },
+                                        "url": {
+                                            "name": "URL",
+                                            "description": "",
+                                            "value": "https://slicelife.com/restaurants/ct/seymour/06483/train-station-pizza-seymour/menu"
+                                        }
+                                    }
+                                ]
+                            },
+                            "biography": {
+                                "name": "Biography",
+                                "description": "",
+                                "value": "Open for Dine-in and Takeout. Delivery available through Slice!\n145 Main Street, Seymour CT.                        203-828-1008"
+                            },
+                            "biography_email": {
+                                "name": "Biography Email",
+                                "description": "",
+                                "value": null
+                            },
+                            "biography_with_entities": {
+                                "name": "Biography with Entities",
+                                "description": "",
+                                "value": {
+                                    "entities": [],
+                                    "raw_text": "Open for Dine-in and Takeout. Delivery available through Slice!\n145 Main Street, Seymour CT.                        203-828-1008"
+                                }
+                            },
+                            "can_add_fb_group_link_on_profile": {
+                                "name": "Can Add Facebook Group Link on Profile",
+                                "description": "",
+                                "value": false
+                            },
+                            "can_hide_category": {
+                                "name": "Can Hide Category",
+                                "description": "",
+                                "value": true
+                            },
+                            "category": {
+                                "name": "Category",
+                                "description": "",
+                                "value": "Pizza place"
+                            },
+                            "suggestions": {
+                                "name": "Suggestions",
+                                "description": ""
+                            },
+                            "current_catalog_id": {
+                                "name": "Current Catalog ID",
+                                "description": "",
+                                "value": null
+                            },
+                            "eligible_for_text_app_activation_badge": {
+                                "name": "Eligible for Text App Activation Badge",
+                                "description": "",
+                                "value": false
+                            },
+                            "external_lynx_url": {
+                                "name": "External Lynx URL",
+                                "description": "",
+                                "value": "https://l.instagram.com/?u=https%3A%2F%2Fslicelife.com%2Frestaurants%2Fct%2Fseymour%2F06483%2Ftrain-station-pizza-seymour%2Fmenu%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaY7w7L-7_1lMNpkNFUPHiAehyjm-lRXLdnksUDJoKZD5PXH5JG_n4ldS4k_aem_AV9CvvjhLiQ-UfqAM_pDLR85bw84a55b6wgkQsPd0xmaF8Pq_Q11eu3VOcTUbtLO6B39Cl_XJRZ6ESwzvnPQatdS&e=AT1Lbpn5zUd0IKqCvRqJNgHgk7FEYi-9z0p4zEG1vjvmlCDU7vQYR-QockoBKL3qHAWSfHaqCPwMUN0TuCxV54wgEBhXwmtZBwc8Fn8"
+                            },
+                            "external_url": {
+                                "name": "External URL",
+                                "description": "",
+                                "value": "https://slicelife.com/restaurants/ct/seymour/06483/train-station-pizza-seymour/menu"
+                            },
+                            "fbid_v2": {
+                                "name": "Facebook ID V2",
+                                "description": "",
+                                "value": 17841451735833574
+                            },
+                            "follower_count": {
+                                "name": "Follower Count",
+                                "description": "",
+                                "value": 168
+                            },
+                            "following_count": {
+                                "name": "Following Count",
+                                "description": "",
+                                "value": 91
+                            },
+                            "full_name": {
+                                "name": "Full Name",
+                                "description": "",
+                                "value": "Train Station Pizza"
+                            },
+                            "has_anonymous_profile_picture": {
+                                "name": "Has Anonymous Profile Picture",
+                                "description": "",
+                                "value": false
+                            },
+                            "hd_profile_pic_url_info": {
+                                "name": "HD Profile Picture URL Info",
+                                "description": "",
+                                "value": {
+                                    "height": 1080,
+                                    "url": "https://scontent-mad2-1.cdninstagram.com/v/t51.2885-19/274489550_334544711973606_5501449051625191307_n.jpg?_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=INRA_Sn6iJUQ7kNvgENX5dD&edm=AO4kU9EBAAAA&ccb=7-5&oh=00_AYDHUY8TRkCvPSiA9jJUfVNMeSyAvwJrOkHl6va5x4DEuA&oe=66473B5F&_nc_sid=164c1d",
+                                    "width": 1080
+                                }
+                            },
+                            "id": {
+                                "name": "ID",
+                                "description": "",
+                                "value": "51788596527"
+                            },
+                            "is_business": {
+                                "name": "Is Business",
+                                "description": "",
+                                "value": true
+                            },
+                            "is_call_to_action_enabled": {
+                                "name": "Is Call to Action Enabled",
+                                "description": "",
+                                "value": false
+                            },
+                            "is_category_tappable": {
+                                "name": "Is Category Tappable",
+                                "description": "",
+                                "value": false
+                            },
+                            "is_eligible_for_request_message": {
+                                "name": "Is Eligible for Request Message",
+                                "description": "",
+                                "value": false
+                            },
+                            "is_private": {
+                                "name": "Is Private",
+                                "description": "",
+                                "value": false
+                            },
+                            "is_verified": {
+                                "name": "Is Verified",
+                                "description": "",
+                                "value": false
+                            },
+                            "live_subscription_status": {
+                                "name": "Live Subscription Status",
+                                "description": "",
+                                "value": "default"
+                            },
+                            "location_data": {
+                                "name": "Location Data",
+                                "description": "",
+                                "value": {
+                                    "address_street": "",
+                                    "city_id": 0,
+                                    "city_name": "",
+                                    "instagram_location_id": "103998128584053",
+                                    "latitude": 0,
+                                    "longitude": 0,
+                                    "zip": ""
+                                }
+                            },
+                            "media_count": {
+                                "name": "Media Count",
+                                "description": "",
+                                "value": 71
+                            },
+                            "page_id": {
+                                "name": "Page ID",
+                                "description": "",
+                                "value": 103998128584053
+                            },
+                            "page_name": {
+                                "name": "Page Name",
+                                "description": "",
+                                "value": "Seymour Train Station Pizza"
+                            },
+                            "profile_pic_id": {
+                                "name": "Profile Picture ID",
+                                "description": "",
+                                "value": "2780315718878469028_51788596527"
+                            },
+                            "profile_pic_url": {
+                                "name": "Profile Picture URL",
+                                "description": "",
+                                "value": "https://scontent-mad2-1.cdninstagram.com/v/t51.2885-19/274489550_334544711973606_5501449051625191307_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=INRA_Sn6iJUQ7kNvgENX5dD&edm=AO4kU9EBAAAA&ccb=7-5&oh=00_AYB61dXp5g64f0h8zccq4DVrAylZaHBrLK8xvf7foRIJYQ&oe=66473B5F&_nc_sid=164c1d"
+                            },
+                            "profile_pic_url_hd": {
+                                "name": "Profile Picture URL HD",
+                                "description": "",
+                                "value": "https://scontent-mad2-1.cdninstagram.com/v/t51.2885-19/274489550_334544711973606_5501449051625191307_n.jpg?stp=dst-jpg_s640x640&_nc_ht=scontent-mad2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=INRA_Sn6iJUQ7kNvgENX5dD&edm=AO4kU9EBAAAA&ccb=7-5&oh=00_AYDrVBMcSfmh28AJ0mQvWYZLOMRqtIWnnucMoOuUpugFNw&oe=66473B5F&_nc_sid=164c1d"
+                            },
+                            "total_igtv_videos": {
+                                "name": "Total IGTV Videos",
+                                "description": "",
+                                "value": 0
+                            },
+                            "upcoming_events": {
+                                "name": "Upcoming Events",
+                                "description": "",
+                                "value": []
+                            },
+                            "username": {
+                                "name": "Username",
+                                "description": "",
+                                "value": "trainstationpizza_seymour"
+                            }
+                        }
+                    }
+                ]
