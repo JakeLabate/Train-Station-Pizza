@@ -11,6 +11,14 @@
                                 "description": "The name of the business.",
                                 "value": "Seymour Train Station Pizza"
                             },
+                            "bartenders": [
+                          { "name": "Seryna (attitude) Ramos" },
+                              { "name": "Era Alinani" },
+                              { "name": "Stephanie (hottie / hairdresser)" }
+                          
+                            
+                        
+                            ],
                             "website": {
                                 "name": "Website",
                                 "description": "The website of the business.",
